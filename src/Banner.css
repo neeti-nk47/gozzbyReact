@@ -1,0 +1,124 @@
+.Banner{
+    background-image: url(https://dashboard.goozzby.com/images/bg.jpg?2ce1b3d882f4cbdf4c90637f09469bfb);
+    height: 100%;
+    width: 100%;
+}
+
+.navbar{
+    justify-content: center;    
+}
+
+.navigation {
+    height: 60px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0.5rem 0rem;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.btn {
+    background: #3FAB4F;
+    border-radius: 50px;
+    color: #fff;
+}
+
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+img {
+    max-width: 100%;
+}
+
+.professionals {
+    background: #fff;
+    color: #000;
+    padding: 6px 20px;
+    border-radius: 5px;
+    margin-left: auto;
+}
+
+.customers {
+    background: #3FAB4F;
+    color: #fff;
+    padding: 6px 20px;
+    border-radius: 5px;
+    margin-right: 12px;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+.banner-content {
+    margin: 45px 0px;
+    padding: 60px 0px;
+    color: #fff;
+}
+
+.heading-title {
+    font-size: 52px;
+    font-weight: bold;
+}
+
+.selectionss {
+        background: rgb(255, 255, 255);
+        border-radius: 5px;
+    }
+
+
+.search-locat {
+        width: 100%;
+        padding: 12px;
+        border-radius: 5px;
+        border: #ffffff;
+        background: #ffffff;
+}
+
+.locationss{    
+        background: rgb(255, 255, 255);
+        border-radius: 5px;
+        margin-left: 1px;
+        height: 51px;
+}
+
+.pac-target-input:not(:-webkit-autofill) {
+    -webkit-animation-name: endBrowserAutofill;
+    animation-name: endBrowserAutofill;
+}
+
+button, input {
+    border: 1px solid #f5f5f5 !important;     
+    border: none;
+    padding: 7px 40px;
+    background: #fff;
+    margin-right: 2rem;
+}
+
+.banner .search-btn {
+    margin-left: -52px !important;
+    padding: 7px 25px !important;
+    border-radius: 10px;
+    margin-top: 5px !important;
+}
+
+.banner .search-btn {
+    border: none !important;
+}
+
+.man-image{
+    height: auto;
+    width: 100%;
+    margin-top: -18px;
+}
