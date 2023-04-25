@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-3">
               <img
-                src="/images/logo.png?8229a58da2991059e49c70ff0a8ab732"
+                src="https://dashboard.goozzby.com/images/logo.png?8229a58da2991059e49c70ff0a8ab732"
                 alt="logo"
                 style={{ width: "19%" }}
               />
