@@ -1,3 +1,7 @@
+import icon1 from "./icons/imgg1.png";
+import icon2 from "./icons/imgg2.png";
+import icon3 from "./icons/imgg3.png";
+
 const ServiceWorking = () => {
   return (
     <div className="container">
@@ -12,11 +16,7 @@ const ServiceWorking = () => {
           <div className="col-md-4">
             <div className="style-color">
               <div className="image-wrapper">
-                <img
-                  src="https://dashboard.goozzby.com/images/imgg1.png?d982428b8bc1ef4068257708e42482f1"
-                  alt="image12"
-                  className="icon-img"
-                />
+                <img src={icon1} alt="image12" className="icon-img" />
               </div>
             </div>
             <div className="content-heading">
@@ -33,11 +33,7 @@ const ServiceWorking = () => {
           <div className="col-md-4">
             <div className="style-color">
               <div className="image-wrapper">
-                <img
-                  src="https://dashboard.goozzby.com/images/imgg2.png?7afad0fd1c2bf73a056562b2abd9d8a6"
-                  alt="image2222"
-                  className="icon-img"
-                />
+                <img src={icon2} alt="image2222" className="icon-img" />
               </div>
             </div>
             <div className="content-heading">
@@ -54,11 +50,7 @@ const ServiceWorking = () => {
           <div className="col-md-4">
             <div className="style-color">
               <div className="image-wrapper">
-                <img
-                  src="https://dashboard.goozzby.com/images/imgg3.png?868504e10c75d7584f049d585a7327c9"
-                  alt="image222"
-                  className="icon-img"
-                />
+                <img src={icon3} alt="image222" className="icon-img" />
               </div>
             </div>
             <div className="content-heading">

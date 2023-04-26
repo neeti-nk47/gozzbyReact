@@ -4,6 +4,11 @@
     width: 100%;
 }
 
+.brand-image{
+    height: 50px;
+    
+}
+
 .navbar{
     justify-content: center;    
 }
@@ -17,6 +22,7 @@
     padding: 0.5rem 0rem;
     background-color: #fff;
     border-radius: 5px;
+    justify-content: center; 
 }
 
 .btn {
