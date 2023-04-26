@@ -1,6 +1,7 @@
 import icon1 from "./icons/imgg1.png";
 import icon2 from "./icons/imgg2.png";
 import icon3 from "./icons/imgg3.png";
+import "./ServiceWorking.css";
 
 const ServiceWorking = () => {
   return (
