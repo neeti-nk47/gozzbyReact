@@ -10,7 +10,7 @@ const Footer = () => {
               <img
                 src="https://dashboard.goozzby.com/images/logo.png?8229a58da2991059e49c70ff0a8ab732"
                 alt="logo"
-                style={{ width: "19%" }}
+                id="logoS"
               />
               <div className="contentss mt-4">
                 <p>
@@ -23,9 +23,7 @@ const Footer = () => {
                 </p>
                 <p>
                   <i className="fas fa-phone mr-3 fa-rotate-90 phone"></i>
-                  <span style={{ color: " rgb(255, 255, 255)" }}>
-                    (+27)71 648 6378
-                  </span>
+                  <span id="phone">(+27)71 648 6378</span>
                 </p>
               </div>
             </div>
@@ -112,19 +110,17 @@ const Footer = () => {
               <p>Win local jobs and grow your business</p>
               <p>
                 <i aria-hidden="true" className="fab fa-apple"></i>
-                <span style={{ marginLeft: "10px" }}>App Store</span>
+                <span id="spanned">App Store</span>
                 <i
                   aria-hidden="true"
                   className="fab fa-google-play"
-                  style={{ marginLeft: "10px" }}
+                  id="spanned"
                 ></i>
-                <span style={{ marginLeft: "10px" }}>Play Store</span>
+                <span id="spanned">Play Store</span>
               </p>
               <p>
                 <i aria-hidden="true" className="fas fa-clock"></i>
-                <span style={{ marginLeft: "10px" }}>
-                  Available 24 /7 to answer your queries
-                </span>
+                <span id="spanned">Available 24 /7 to answer your queries</span>
               </p>
             </div>
           </div>

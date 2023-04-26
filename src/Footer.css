@@ -59,3 +59,15 @@ div {
     max-width: 1170px;
     margin: auto;
 }
+
+#spanned{
+    margin-left: 10px;
+}
+
+#logoS{
+    width: 19%;
+}
+
+#phone{
+    color: rgb(255, 255, 255);
+}
